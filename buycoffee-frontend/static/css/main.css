@@ -1,0 +1,53 @@
+.center-page-logo {
+    text-align: center;
+    padding-top: 50px;
+}
+
+.center-page-title {
+    text-align: center;
+}
+
+.image-center {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 100%;
+}
+
+.coffee-selections {
+    max-width: 100%;
+}
+
+button {
+  height: 48px;
+  width: 180px;
+  text-align: center;
+  color: #fff;
+  font-size: 1rem;
+  font-weight: 200;
+  background: transparent;
+  border: 1px solid #fff;
+  border-radius: 4px;
+  margin: 20px 0;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  outline: none;
+}
+
+button:hover {
+  background: #fff;
+  color: #FE7880;
+}
+
+button:active {
+  outline: none;
+}
+
+.btn-secondary {
+  border: 1px solid #FE7880;
+  color: #FE7880;
+}
+
+.btn-secondary:hover {
+  background: #FE7880;
+  color: #fff;
+}
